@@ -1,4 +1,4 @@
-from fill import screen, pygame
+from modules.fill import screen, pygame
 
 MAGENTA = (255, 0, 255)
 RED = (255, 0, 0)
